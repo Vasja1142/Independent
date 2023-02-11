@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\bin\Debug\net6.0\task1.1.7.exe
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\bin\Debug\net6.0\task1.1.7.deps.json
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\bin\Debug\net6.0\task1.1.7.runtimeconfig.json
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\bin\Debug\net6.0\task1.1.7.dll
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\bin\Debug\net6.0\task1.1.7.pdb
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.dll
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\refint\task1.1.7.dll
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.pdb
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\task1.1.7.genruntimeconfig.cache
+C:\Users\Вася\Desktop\Репозитории\Independent\task01\task1.1.7\obj\Debug\net6.0\ref\task1.1.7.dll
